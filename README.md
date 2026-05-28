@@ -4,11 +4,8 @@
 
 Eu sou <strong>Erik</strong>, <strong>Estudante de Análise e Desenvolvimento de sistemas na faculdade Senac</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python e JS</strong> 
-- 💬 Pergunte-me sobre: <strong>Python e JS</strong>
-- 📣 Nós podemos falar em: <strong>Português-BR e Inglês</strong>
-
-</div>
+- 🚀 Atualmente estou aprendendo: <strong>Python e JS</strong>
+- 📣 Podemos conversar em: <strong>Português-BR e Inglês</strong>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
